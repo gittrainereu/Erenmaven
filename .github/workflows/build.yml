@@ -30,4 +30,4 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           source: "target/*.jar"
-          target: "/home/tln1/"
+          target: "/home/tln3/"
