@@ -26,7 +26,7 @@ jobs:
         uses: appleboy/scp-action@v1
         with:
           host: 161.35.74.206
-          username: tln1
+          username: tln3
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           source: "target/*.jar"
