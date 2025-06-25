@@ -1,4 +1,4 @@
-ename: Build and Deploy Aya GlassFish Jar
+name: Build and Deploy Aya GlassFish Jar
 
 on:
   push:
